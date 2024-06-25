@@ -1,8 +1,8 @@
 # Hi there!👋 
-I am an Engineer with a focus on Streaming and Cloud Native technologies.
+I am an Engineer with a focus on Streaming. I am doing QA and DevOps stuff now.
 
-Also, I am a little bit of nerd and geeky with improving my perfomance and productivity, so check out my [dotfiles](https://github.com/avramukk/dotfiles).
+Also, I am a little bit of a nerd and geeky about improving my environment, so check out my [dotfiles](https://github.com/avramukk/dotfiles).
 
-I am continiously learning and improving my skills and share it in my [lab](https://github.com/avramukk/lab)
+I am continuously learning and improving my skills and sharing them in my [lab](https://github.com/avramukk/lab) and [Roadmap](https://github.com/users/avramukk/projects/3)
 
 You can find information and my CV on my website: https://avramukk.com
