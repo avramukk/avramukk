@@ -1,5 +1,5 @@
 # Hi there!👋 
-I am an Engineer with a focus on Streaming. I am doing QA and DevOps stuff now.
+I am an Engineer with a focus on Streaming. I am doing DevOps and QA stuff now.
 
 Also, I am a little bit of a nerd and geeky about improving my environment, so check out my [dotfiles](https://github.com/avramukk/dotfiles).
 
